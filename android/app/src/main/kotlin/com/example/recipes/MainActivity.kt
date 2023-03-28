@@ -1,0 +1,6 @@
+package com.brayhan.recipes
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}

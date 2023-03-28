@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "660021820567",
+    "project_id": "recipes-2c191",
+    "storage_bucket": "recipes-2c191.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660021820567:android:4dbeeefed6f6b35fd0bdd2",
+        "android_client_info": {
+          "package_name": "com.brayhan.recipes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "660021820567-lo0ecf0flad06mo0kgp3d39hcevif1ej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc0Ibw2zWCK5VuFcLR4ByBc_74txzWOME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "660021820567-lo0ecf0flad06mo0kgp3d39hcevif1ej.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
